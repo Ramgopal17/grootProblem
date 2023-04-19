@@ -6,14 +6,14 @@ module.exports = {
       resolve: 'smooth-doc',
       options: {
         name: 'Smooth DOC',
-        siteUrl: 'https://smooth-doc.com',
+        siteUrl: 'https://altrasonictest.netlify.app/',
         description: 'Ready to use documentation theme for Gatsby.',
         baseDirectory: path.resolve(__dirname, '../'),
         author: 'Greg Bergé',
         sections: ['About', 'Guide', 'Components', 'Reference'],
         navItems: [{ title: 'Docs', url: '/docs/' }],
         twitterAccount: 'neoziro',
-        githubRepositoryURL: 'https://github.com/gregberge/smooth-doc/',
+        githubRepositoryURL: 'https://github.com/Ramgopal17/grootProblem',
         carbonAdsURL:
           '//cdn.carbonads.com/carbon.js?serve=CE7IL2JN&placement=xstyleddev',
         docSearch: {
